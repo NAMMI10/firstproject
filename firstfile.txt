@@ -1,2 +1,11 @@
-practicing about ggit and git hub 
-Today i the first day 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Tutorial</title>
+</head>
+<body>
+
+The content of the document......
+
+</body>
+</html>
